@@ -1,0 +1,2 @@
+@NoRepositoryBean
+When an interface is annotated with @NoRepistoryBean , bean will not be initialized for that interface 
